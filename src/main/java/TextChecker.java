@@ -2,9 +2,6 @@ package main.java;
 
 public class TextChecker {
     public static void main(String[] args) {
-       // Task:
-//        We have a text less than 500 chars , and we are facing so many typing errors , please write methods for :
-//        please in main method use scanner to read the input for every method from the CLI
     }
     // 1- write a method to check the number of chars , it returns “Error message ” if it exceeds 500 !!
     public String checkLength(String text) {
